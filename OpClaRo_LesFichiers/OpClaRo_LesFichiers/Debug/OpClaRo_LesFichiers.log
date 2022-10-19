@@ -1,0 +1,6 @@
+﻿cl : ligne de commande warning D9035: l'option 'V' est déconseillée et sera supprimée dans une version ultérieure
+  OpClaRo_LesFichiers.cpp
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LesFichiers\OpClaRo_LesFichiers\OpClaRo_LesFichiers.cpp(9,14): warning C4101: 'minutes' : variable locale non référencée
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LesFichiers\OpClaRo_LesFichiers\OpClaRo_LesFichiers.cpp(9,23): warning C4101: 'secondes' : variable locale non référencée
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LesFichiers\OpClaRo_LesFichiers\OpClaRo_LesFichiers.cpp(9,6): warning C4101: 'heures' : variable locale non référencée
+  OpClaRo_LesFichiers.vcxproj -> C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LesFichiers\Debug\OpClaRo_LesFichiers.exe

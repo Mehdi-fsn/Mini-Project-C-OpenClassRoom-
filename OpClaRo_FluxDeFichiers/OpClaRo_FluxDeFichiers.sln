@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpClaRo_FluxDeFichiers", "OpClaRo_FluxDeFichiers\OpClaRo_FluxDeFichiers.vcxproj", "{B9D08E39-AB6F-480C-A76E-D0335E0955C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Debug|x64.ActiveCfg = Debug|x64
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Debug|x64.Build.0 = Debug|x64
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Debug|x86.Build.0 = Debug|Win32
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Release|x64.ActiveCfg = Release|x64
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Release|x64.Build.0 = Release|x64
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Release|x86.ActiveCfg = Release|Win32
+		{B9D08E39-AB6F-480C-A76E-D0335E0955C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB2D975-76B7-41B9-8232-022BD75490D8}
+	EndGlobalSection
+EndGlobal

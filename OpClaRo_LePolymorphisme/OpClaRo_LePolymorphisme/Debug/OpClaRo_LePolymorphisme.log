@@ -1,0 +1,8 @@
+﻿  Classes.cpp
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LePolymorphisme\OpClaRo_LePolymorphisme\Classes.cpp(86,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LePolymorphisme\OpClaRo_LePolymorphisme\Classes.cpp(98,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LePolymorphisme\OpClaRo_LePolymorphisme\Classes.cpp(110,19): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LePolymorphisme\OpClaRo_LePolymorphisme\Classes.cpp(118,19): warning C4018: '<' : incompatibilité signed/unsigned
+  OpClaRo_LePolymorphisme.cpp
+  Génération de code en cours...
+  OpClaRo_LePolymorphisme.vcxproj -> C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_LePolymorphisme\Debug\OpClaRo_LePolymorphisme.exe

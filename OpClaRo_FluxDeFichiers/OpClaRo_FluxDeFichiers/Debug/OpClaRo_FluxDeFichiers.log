@@ -1,0 +1,4 @@
+﻿  OpClaRo_FluxDeFichiers.cpp
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_FluxDeFichiers\OpClaRo_FluxDeFichiers\OpClaRo_FluxDeFichiers.cpp(51,10): warning C4101: 'b' : variable locale non référencée
+C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_FluxDeFichiers\OpClaRo_FluxDeFichiers\OpClaRo_FluxDeFichiers.cpp(46,17): warning C4101: 'nombre1' : variable locale non référencée
+  OpClaRo_FluxDeFichiers.vcxproj -> C:\Users\Mehdi\Documents\Programmation\Visual Studio 2019\Projet\OpClaRo_FluxDeFichiers\Debug\OpClaRo_FluxDeFichiers.exe
